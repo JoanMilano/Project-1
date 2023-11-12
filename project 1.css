@@ -1,0 +1,24 @@
+/* Comments in css use these opening and closing tags, comments dont effect the code are used to address coder/viewer of the code
+box-shadow: offsetX(1st value) right   =  +, left  =  -  \  offsetY-down(2nd value)  =  +, up  =  -  \  blurRadius(3rd value)  \  spreadRadius(4th value)  \  color(5th value)  
+
+*/
+
+
+
+main { text-align: center; font-family: cursive; background-color: coral;}
+body { background-image: url(https://img.freepik.com/free-vector/day-dead-hand-drawn-style-pattern_52683-47223.jpg?size=626&ext=jpg&ga=GA1.1.386372595.1698364800&semt=ais); }
+.title { width: 80%; background-color: rgba(255, 200, 0, 85%); box-shadow: 0 0 20px 20px rgba(100, 0, 139, 0.85); margin-left: auto; margin-right: auto; font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; }
+.cats { background: linear-gradient(90deg, rgb(255, 123, 0), rgb(255, 255, 255), rgb(255, 123, 0)); box-shadow: 0 5px 30px 10px whitesmoke}
+.hobbies { background: linear-gradient(90deg, rgb(136, 34, 3), rgb(126, 67, 0), rgb(136, 34, 3)); }
+.favorite { background-color: black; color:antiquewhite; height: 7.5vh;}
+hr {height: 2px; background-color: black; border-color: black}
+.item p { display: inline-block; margin-top: 13px; margin-bottom: 13px;}
+.trick {text-align: left; max-width: 500px}
+.rating {text-align: right; width: 10%;}
+.footnotes {font-style: unset;}
+.images {object-fit: cover; }
+h3 {font-size: 25px; }
+a {color: crimson;}
+a:visited {freecodecamp.: https://www.freecodecamp.org/learn/2022/responsive-web-design/; color: yellow}
+a:hover {freecodecamp.: https://www.freecodecamp.org/learn/2022/responsive-web-design/; color: green}
+a:active {freecodecamp.: https://www.freecodecamp.org/learn/2022/responsive-web-design/; color: white}
